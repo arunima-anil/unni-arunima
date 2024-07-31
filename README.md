@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ### :hammer_and_wrench: Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,anaconda,arduino,atom,bash,c,cpp,docker,flask,git,github,html,js,kafka,mysql,nodejs,opencv,postman,py,pytorch,r,sklearn,tensorflow,vscode&perline=5)](https://skillicons.dev)
+https://github.com/tandpfun/skill-icons
